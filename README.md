@@ -1,11 +1,11 @@
 # O Super jogo da adivinhação é um jogo desenvolvido em C utilizando o algoritmo de ordenação Bubble Sort 🎮
 
-📌Sobre o jogo 🎮:
+📌Sobre o jogo: 🎮
 
 - Desenvolvido para testar um pouco dos meus conhecimentos sobre a linguagem C e a estrutura de dados que estou estudando.
 - o Jogo consiste de adivinhar um número entre 0 e 1000 que será escolhido pelo BOT, cada jogador terá 15 tentativas para acertar.
  
- 📌 Regras do jogo 🎮:
+ 📌 Regras do jogo: 🎮
 
 - O BOT irá pensar em um número entre 0 e 1000 e o jogador terá que adivinhar.
 
